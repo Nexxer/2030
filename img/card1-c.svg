@@ -1,0 +1,29 @@
+<svg width="150" height="140" viewBox="0 0 150 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="10" y="3" width="140" height="137">
+<path d="M150 70C150 82.9058 146.432 95.5605 139.691 106.566C132.949 117.571 123.296 126.498 111.799 132.361C100.302 138.223 87.4072 140.793 74.5406 139.787C61.6741 138.78 49.3363 134.236 38.8905 126.657C28.4447 119.078 20.2976 108.758 15.3494 96.8385C10.4012 84.9189 8.84462 71.8634 10.8516 59.1146C12.8585 46.3657 18.3509 34.4199 26.7218 24.597C35.0927 14.7742 46.0162 7.45669 58.2854 3.45319L80 70H150Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<circle cx="80" cy="70" r="60" stroke="#3967B1" stroke-width="20"/>
+</g>
+<circle cx="80" cy="70" r="43" stroke="#F4F5FB" stroke-width="10"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="30" y="45" width="100" height="75">
+<path d="M130 70C130 77.6248 128.256 85.1486 124.902 91.996C121.548 98.8433 116.672 104.833 110.647 109.506C104.623 114.18 97.6089 117.414 90.1426 118.96C82.6763 120.507 74.9552 120.326 67.5698 118.43C60.1843 116.535 53.3303 112.975 47.5318 108.024C41.7333 103.073 37.144 96.8607 34.1149 89.8634C31.0858 82.8661 29.6971 75.2688 30.0551 67.6524C30.4131 60.036 32.5083 52.6023 36.1804 45.92L80 70H130Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="80" cy="70" r="43" stroke="#91BE54" stroke-width="10"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="56" y="0" width="94" height="70">
+<path d="M150 70C150 58.7961 147.311 47.756 142.158 37.8072C137.005 27.8585 129.54 19.2919 120.389 12.8274C111.239 6.3629 100.67 2.18932 89.5711 0.657417C78.4725 -0.874489 67.1683 0.280039 56.6085 4.02398L80 70H150Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<circle cx="80" cy="70" r="60" stroke="#F4F5FB" stroke-width="20"/>
+</g>
+<rect x="56.1895" y="4.22571" width="2" height="20.0176" transform="rotate(-19.9303 56.1895 4.22571)" fill="white"/>
+<rect x="37.5957" y="47.2419" width="2" height="10.3832" transform="rotate(-61.626 37.5957 47.2419)" fill="white"/>
+<rect x="118" y="70" width="2" height="32" transform="rotate(-90 118 70)" fill="white"/>
+<rect x="38" y="81" width="37" height="1" transform="rotate(180 38 81)" fill="#E0E0E6"/>
+<circle cx="1.49988" cy="80.5" r="1.5" transform="rotate(180 1.49988 80.5)" fill="#E0E0E6"/>
+<rect width="20.5683" height="1" transform="matrix(0.866025 0.5 0.5 -0.866025 11.9999 28.866)" fill="#E0E0E6"/>
+<rect x="12.9998" y="29" width="10" height="1" transform="rotate(180 12.9998 29)" fill="#E0E0E6"/>
+<circle cx="1.49982" cy="28.5" r="1.5" transform="rotate(180 1.49982 28.5)" fill="#E0E0E6"/>
+</svg>

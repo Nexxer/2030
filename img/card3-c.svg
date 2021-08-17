@@ -1,0 +1,30 @@
+<svg width="164" height="140" viewBox="0 0 164 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="93" y="70" width="71" height="59">
+<path d="M163.002 70C163.002 81.6318 160.103 93.0802 154.568 103.311C149.033 113.541 141.036 122.231 131.299 128.594L93.002 70H163.002Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<circle cx="93.002" cy="70" r="60" stroke="#3967B1" stroke-width="20"/>
+</g>
+<circle cx="93.002" cy="70" r="43" stroke="#F4F5FB" stroke-width="10"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="93" y="70" width="51" height="36">
+<path d="M143.002 70C143.002 76.5661 141.709 83.0679 139.196 89.1342C136.683 95.2005 133 100.712 128.357 105.355L93.002 70H143.002Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="93.002" cy="70" r="43" stroke="#91BE54" stroke-width="10"/>
+</g>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="23" y="0" width="141" height="141">
+<path d="M163.002 70C163.002 54.4191 157.804 39.2836 148.23 26.9906C138.657 14.6976 125.256 5.94986 110.15 2.13293C95.044 -1.68399 79.0962 -0.351938 64.8326 5.91812C50.569 12.1882 38.8049 23.0378 31.4037 36.7486C24.0025 50.4594 21.3871 66.2476 23.9719 81.6126C26.5567 96.9776 34.1938 111.041 45.6737 121.576C57.1536 132.11 71.8201 138.513 87.3501 139.771C102.88 141.029 118.386 137.07 131.412 128.521L93.002 70H163.002Z" fill="white"/>
+</mask>
+<g mask="url(#mask2)">
+<circle cx="93.002" cy="70" r="60" stroke="#F4F5FB" stroke-width="20"/>
+</g>
+<rect x="119.002" y="112.099" width="2" height="20.7247" transform="rotate(-33.3324 119.002 112.099)" fill="white"/>
+<rect x="128.001" y="103.566" width="2" height="10.7151" transform="rotate(134.923 128.001 103.566)" fill="white"/>
+<rect x="131.002" y="70" width="2" height="32" transform="rotate(-90 131.002 70)" fill="white"/>
+<rect x="13.0004" y="84" width="12" height="1" transform="rotate(180 13.0004 84)" fill="#E0E0E6"/>
+<circle cx="1.50067" cy="83.5" r="1.5" transform="rotate(180 1.50067 83.5)" fill="#E0E0E6"/>
+<rect width="115.1" height="1" transform="matrix(0.996195 0.0871557 0.0871557 -0.996195 12 83.9962)" fill="#E0E0E6"/>
+<rect width="145.571" height="1" transform="matrix(0.939693 0.34202 0.34202 -0.939693 12.0004 33.9397)" fill="#E0E0E6"/>
+<rect x="13.0001" y="34" width="10" height="1" transform="rotate(180 13.0001 34)" fill="#E0E0E6"/>
+<circle cx="1.50029" cy="33.5" r="1.5" transform="rotate(180 1.50029 33.5)" fill="#E0E0E6"/>
+</svg>
